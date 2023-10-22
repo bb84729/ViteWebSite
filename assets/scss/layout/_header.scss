@@ -1,4 +1,12 @@
-.header{
-  background: #69F0AE;
-  font-size: 64px;
+.nav-bar {
+  justify-content: space-between;
+}
+
+nav p {
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 64px;
 }
